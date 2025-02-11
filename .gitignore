@@ -1,0 +1,14 @@
+.venv
+.gitattributes
+files
+backup_cookies.json
+cookies.json
+dados_ids_novos.csv
+gestores.csv
+ids_desligados.csv
+ids_novos.txt
+json_bruto_encontrado.json
+json_com_erros.json
+log_cookies_processo.log
+preocesso.log
+updateV2_cookies.py
